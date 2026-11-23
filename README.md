@@ -29,7 +29,7 @@ flowchart LR
     APP --> DB
 ```
 
-### Estructura de paquetes
+#### Estructura de paquetes
 
 ```
 nexora_backend/
